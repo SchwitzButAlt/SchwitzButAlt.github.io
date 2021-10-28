@@ -215,6 +215,14 @@ span{
   text-align: center;
 }
 
+label{
+  padding-bottom:20px;
+}
+
+.textarea{
+  margin-top:30px;
+}
+
 .contact h2 {
   padding: 10px;
   border-bottom: 5px solid #7c00c9;
